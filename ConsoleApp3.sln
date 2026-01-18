@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DTransformationsConsoleApp", "ConsoleApp3\2DTransformationsConsoleApp.csproj", "{FECCED58-E8BE-4B7F-B613-33558F432606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECCED58-E8BE-4B7F-B613-33558F432606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECCED58-E8BE-4B7F-B613-33558F432606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECCED58-E8BE-4B7F-B613-33558F432606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECCED58-E8BE-4B7F-B613-33558F432606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88626768-283E-4AF7-A263-210CFF37EABB}
+	EndGlobalSection
+EndGlobal
